@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run clean:build:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm run build:packages:*)",
+      "Bash(ls:*)",
+      "Bash(npm run build:api:*)",
+      "Bash(npm start)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(npm run test:*)",
+      "Bash(npm test:*)"
+    ]
+  }
+}
