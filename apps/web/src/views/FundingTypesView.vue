@@ -235,7 +235,7 @@
         </p>
         <goa-spacer vspacing="m"></goa-spacer>
         <goa-button-group alignment="start">
-          <GoabButton type="start" @click="handleApplyNow">
+          <GoabButton type="secondary" @click="handleApplyNow">
             Apply Now
           </GoabButton>
         </goa-button-group>
